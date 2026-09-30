@@ -1,0 +1,12 @@
+# Dataset (too large for git, download separately from Kaggle — see README)
+walk_or_run_train/
+walk_or_run_test/
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS
+.DS_Store
